@@ -1,6 +1,5 @@
 import React, {Component} from "react";
-import { Table } from 'reactstrap'
-import Header from "./HeaderComponent";
+import { Table } from 'reactstrap';
 
 function TransactionTable({transactions}) {
     return (
